@@ -1,0 +1,16 @@
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/bin/Debug/net5.0/SwishSales
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/bin/Debug/net5.0/SwishSales.deps.json
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/bin/Debug/net5.0/SwishSales.runtimeconfig.json
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/bin/Debug/net5.0/SwishSales.runtimeconfig.dev.json
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/bin/Debug/net5.0/SwishSales.dll
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/bin/Debug/net5.0/ref/SwishSales.dll
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/bin/Debug/net5.0/SwishSales.pdb
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/obj/Debug/net5.0/SwishSales.csproj.AssemblyReference.cache
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/obj/Debug/net5.0/SwishSales.GeneratedMSBuildEditorConfig.editorconfig
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/obj/Debug/net5.0/SwishSales.AssemblyInfoInputs.cache
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/obj/Debug/net5.0/SwishSales.AssemblyInfo.cs
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/obj/Debug/net5.0/SwishSales.csproj.CoreCompileInputs.cache
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/obj/Debug/net5.0/SwishSales.dll
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/obj/Debug/net5.0/ref/SwishSales.dll
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/obj/Debug/net5.0/SwishSales.pdb
+/home/voldemort/Documents/tafeNotesAndPrograms/C#/Objects/Objects/SwishSales/obj/Debug/net5.0/SwishSales.genruntimeconfig.cache
